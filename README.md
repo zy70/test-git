@@ -1,2 +1,2 @@
 # test-git
-A test repository for demonstrating Git.
+A test repository for demonstrating Github.
